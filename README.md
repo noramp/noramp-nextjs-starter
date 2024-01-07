@@ -1,6 +1,7 @@
-## Le T2 Template
+## NoRamp Next.js Template
 
 ```bash
+yarn
 yarn dev
 ```
 
