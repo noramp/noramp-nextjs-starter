@@ -1,4 +1,4 @@
-## NoRamp Next.js Template
+## NoRamp Next.js Starter
 
 ```bash
 yarn
