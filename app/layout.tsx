@@ -4,8 +4,8 @@ import { ThemeProvider } from "@/components/ThemeProvider";
 import { Nav } from "@/components/Nav";
 
 export const metadata: Metadata = {
-  title: "Home",
-  description: "Welcome to T2",
+  title: "NoRamp Next.js Starter Repo",
+  description: "NoRamp Next.js Starter Repo",
 };
 
 export default function RootLayout({

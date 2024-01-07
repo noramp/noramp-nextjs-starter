@@ -27,7 +27,7 @@ export const Nav = () => {
             <Link href="/">
               <div className="flex items-center justify-center w-24">
                 <FaAirbnb width={36} height={36} />
-                <span className="ml-2 font-bold">T2</span>
+                <span className="ml-2 font-bold">NR</span>
               </div>
             </Link>
           </div>
